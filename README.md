@@ -1,7 +1,5 @@
 <h1 align="center"> D4VI-rby Space</h1>
 
-<img src="https://media1.tenor.com/m/iDOHd7qpWhAAAAAd /divider-mandala.gif" width="498"> </p>
-
 <div align="center">
 
 Cursando Informática para Internet na ETEC Cidade Tiradentes
@@ -12,7 +10,7 @@ Contate-me no email: tgv22362236@email.com
 
 </div>
 
-<h3 align="center"> Linguagens (0 )> </h3>
+<h3 align="center"> Linguagens •﹏• </h3>
 
 <div align="center">
 
