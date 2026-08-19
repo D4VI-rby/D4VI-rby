@@ -1,16 +1,14 @@
-<h1 align="center"> D4VI-r Space</h1>
-
-<p align="center">
+<h1 align="center"> D4VI-rby Space</h1>
 
 <img src="https://media1.tenor.com/m/iDOHd7qpWhAAAAAd /divider-mandala.gif" width="498"> </p>
 
 <div align="center">
 
-* Cursando Informática para Internet na ETEC Cidade Tiradentes*。゜☆
+Cursando Informática para Internet na ETEC Cidade Tiradentes
 
-*.° Aprendendo HTML, CSS, JavaScript, MySQL e Python *.°☆
+Aprendendo HTML, CSS, JavaScript, MySQL e Python
 
-*°☆ Contate-me no email: tgv22362236@email.com *。゜☆
+Contate-me no email: tgv22362236@email.com 
 
 </div>
 
