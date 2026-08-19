@@ -1,4 +1,4 @@
-<h1 align="center"> *Spirit's Space 2 z 1</h1>
+<h1 align="center"> D4VI-r Space</h1>
 
 <p align="center">
 
