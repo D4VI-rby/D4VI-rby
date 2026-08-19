@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐃𝜟𝐕𝐈-rby Space</h1>
+<h1 align="center"> 𝐃𝐀𝐕𝐈-rby Space</h1>
 
 <div align="center">
 
