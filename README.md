@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐃𝐀𝐕𝐈-rby Space</h1>
+<h1 align="center"> 𝐃𝐀𝐕𝐈-rby </h1>
 
 <div align="center">
 
@@ -12,6 +12,7 @@ Contate-me no email: davi23ribeiro23dantas@gmail.com
 
 <h3 align="center"> Linguagens •﹏• </h3>
 
+<p align ="center"> HTML CSS PYTHON JavaScript Linux e Terminal</p>
 <div align="center">
 
 <h3 align="center"> Ferramentas ⊙⁠_⁠◎ </h3>
