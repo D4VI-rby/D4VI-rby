@@ -1,4 +1,4 @@
-<h1 align="center"> SOBRE MIM</h1>
+<h1 align="center"> INFORMAÇÕES SOBRE MIM </h1>
 
 <div align="center">
 
