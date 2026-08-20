@@ -6,9 +6,7 @@
 Cursando Informática para Internet na ETEC Cidade Tiradentes
 
 Aprendendo HTML, CSS, JavaScript, MySQL, Python e Linux
-</div>
 
-<div align="center">
 Contate-me no email: davi23ribeiro23dantas@gmail.com 
 </div>
 
