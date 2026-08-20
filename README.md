@@ -10,6 +10,9 @@ Contate-me no email: davi23ribeiro23dantas@gmail.com
 
 </div>
 
+
+<div align="center">
+
 <h3 align="center"> Linguagens •﹏• </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50"/>
 
@@ -23,7 +26,8 @@ Contate-me no email: davi23ribeiro23dantas@gmail.com
           
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height ="50"/>
-          
+
+</div>        
           
 <div align="center">
 
@@ -35,8 +39,6 @@ Contate-me no email: davi23ribeiro23dantas@gmail.com
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50"/>
           
-          
-<div align="center">
 
 </div>
 
