@@ -2,6 +2,8 @@
 
 <div align="center">
 
+#𝙳𝚊𝚟𝚒 𝚁𝚒𝚋𝚎𝚒𝚛𝚘 𝙳𝚊𝚗𝚝𝚊𝚜
+
 Cursando Informática para Internet na ETEC Cidade Tiradentes
 
 Aprendendo HTML, CSS, JavaScript, MySQL, Python e Linux
