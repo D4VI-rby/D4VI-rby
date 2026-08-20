@@ -1,4 +1,4 @@
-<h1 align="center"> DΛVI </h1>
+<h1 align="center"> 𝕊𝕆𝔹ℝ𝔼 𝕄𝕀𝕄 </h1>
 
 <div align="center">
 
