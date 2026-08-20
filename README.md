@@ -2,13 +2,9 @@
 
 <div align="center">
 𝙳𝚊𝚟𝚒 𝚁𝚒𝚋𝚎𝚒𝚛𝚘 𝙳𝚊𝚗𝚝𝚊𝚜
-</div>
 
-<div align="center">
 Cursando Informática para Internet na ETEC Cidade Tiradentes
-</div>
 
-<div align="center">
 Aprendendo HTML, CSS, JavaScript, MySQL, Python e Linux
 </div>
 
