@@ -1,4 +1,4 @@
-<h1 align="center"> 𝕊𝕠𝕓𝕣𝕖 𝕞𝕚𝕞 </h1>
+<h1 align="center"> DΛVI </h1>
 
 <div align="center">
 
@@ -13,7 +13,7 @@ Contate-me no email: davi23ribeiro23dantas@gmail.com
 
 <div align="center">
 
-<h3 align="center"> Linguagens •﹏• </h3>
+<h3 align="center"> 𝙻𝙸𝙽𝙶𝚄𝙰𝙶𝙴𝙽𝚂 •﹏• </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="50"/>
@@ -31,7 +31,7 @@ Contate-me no email: davi23ribeiro23dantas@gmail.com
           
 <div align="center">
 
-<h3 align="center"> Ferramentas ⊙⁠_⁠◎ </h3>
+<h3 align="center"> 𝙵𝙴𝚁𝚁𝙰𝙼𝙴𝙽𝚃𝙰𝚂 ⊙⁠_⁠◎ </h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50"/>
 
