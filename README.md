@@ -1,15 +1,19 @@
 <h1 align="center"> 𝕊𝕆𝔹ℝ𝔼 𝕄𝕀𝕄 </h1>
 
 <div align="center">
-
 𝙳𝚊𝚟𝚒 𝚁𝚒𝚋𝚎𝚒𝚛𝚘 𝙳𝚊𝚗𝚝𝚊𝚜
+</div>
 
+<div align="center">
 Cursando Informática para Internet na ETEC Cidade Tiradentes
+</div>
 
+<div align="center">
 Aprendendo HTML, CSS, JavaScript, MySQL, Python e Linux
+</div>
 
+<div align="center">
 Contate-me no email: davi23ribeiro23dantas@gmail.com 
-
 </div>
 
 
